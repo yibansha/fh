@@ -168,6 +168,6 @@ int main()
 		ff();
 	}
 	
-	//system("PAUSE");
+	//system("PAUSE");  
 	return 0;
 }
